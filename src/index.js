@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-ㅡㅡㅡ;
+
 function Welcome(props){
     return <h1>hello, {props.name}</h1>;
 }
