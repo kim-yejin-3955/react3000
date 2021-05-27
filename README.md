@@ -26,3 +26,10 @@ function Main(){
     )
 }
 export default Main;
+
+## 줄정렬 자동 완성
+Setting -> format -> Editor: Default Formatter를 Prettier - code formatter로 설정 & Editor: Format On Save에 체크
+
+## Tab 숫자 설정? 줄바꿈할때 몇칸 띌지를 설정해줌
+
+## vmax 사용법 알아두기

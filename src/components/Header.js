@@ -70,6 +70,7 @@ function Header(){
           </li>
         </ul>
       </div>
+      {/* <div className="header__info" id={none}> */}
       <div className="header__info">
         <div>
           <h4>email</h4>
