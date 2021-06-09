@@ -12,6 +12,13 @@ npm install prop-types
 ## SASS 설정
 npm install node-sass
 
+## axios 설정
+npm install axios
+npm i react-axios
+
+
+## -> 설정 완료는 package.json에서 확인
+
 ## page 만드는 순서 
 App.js에 모든 페이지 import 해줌
 각 페이지에서  export 해줌 -> export default 페이지이름
@@ -31,5 +38,6 @@ export default Main;
 Setting -> format -> Editor: Default Formatter를 Prettier - code formatter로 설정 & Editor: Format On Save에 체크
 
 ## Tab 숫자 설정? 줄바꿈할때 몇칸 띌지를 설정해줌
+f1 누르고 Indent Using Spaces -> 숫자 변경 
 
 ## vmax 사용법 알아두기
